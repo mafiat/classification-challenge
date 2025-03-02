@@ -6,7 +6,7 @@ This project is a classification challenge focused on building a spam detector. 
 
 ## Dataset
 
-The dataset used for this project consists of labeled messages. Each message is labeled as either "spam" or "ham" (not spam).
+The dataset used for this project consists of labeled messages. Each message is labeled as either "1" (spam) or "0" (not spam).
 
 ## Notebooks
 
