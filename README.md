@@ -65,9 +65,9 @@ The performance of the spam detector is evaluated using metrics such as accuracy
 
 2. Random Forest Classifier model
 
-Accuracy Score: 0.958
-Training Score: 0.999
-Testing Score: 0.958
+        Accuracy Score: 0.958
+        Training Score: 0.999
+        Testing Score: 0.958
 
         Classification Report:
 
