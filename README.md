@@ -1,4 +1,4 @@
-# classification-challenge
+# Classification Challenge
 
 ## Overview
 
